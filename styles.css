@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+table ,th ,td  {
+	border:1px solid black;
+	border-collapse:collapse;
+}
+th{
+	width:90px;
+	text-align:left;
+}
+td
+{
+	text-align:right;
+}
+
+.r1{
+	background-color:red;
+	color:white;
+}
+.r2{
+	background-color: hotpink;
+	color:white;
+}
+.r3{
+	background-color:lightpink;
+}
+.r4{
+	background-color:grey;
+}
